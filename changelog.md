@@ -9,4 +9,4 @@
 - Added Favicon 
 - Verified site on Google
 - Added credit to davesite.com & Mozilla on some lines of code
-- Created assets folder
+- Created assets directory
