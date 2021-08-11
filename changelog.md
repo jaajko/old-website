@@ -13,5 +13,6 @@
 - Added credit to davesite.com & Mozilla on some lines of code
 - Created assets directory
 - Changed license to MIT
+- Added credit to link-assistant.com on a line of code
 <br>
 <strong>August 12th</strong>
