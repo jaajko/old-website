@@ -14,6 +14,5 @@
 - Created assets directory
 - Changed license to MIT
 - Added credit to link-assistant.com on a line of code
-- Changed some spelling
 <br>
 <strong>August 12th</strong>
