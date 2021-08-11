@@ -5,5 +5,6 @@
 - Website created
 - Added LICENSE to Repository<br>
 (The Unlicensed License)
-- Added some SEO optimization
+- Optimized site better for search<br>
+engines
 - Added Favicon 
