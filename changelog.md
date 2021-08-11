@@ -16,3 +16,5 @@
 - Added credit to link-assistant.com on a line of code
 <br>
 <strong>August 12th</strong>
+
+- Added photo
