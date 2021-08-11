@@ -1,4 +1,6 @@
-<strong>August 11th, 2021</strong>
+## 2021
+
+<strong>August 11th</strong>
 
 - Repository created
 - Website created
@@ -12,4 +14,4 @@
 - Created assets directory
 - Changed license to MIT
 <br>
-<strong>August 12th, 2021</strong>
+<strong>August 12th</strong>
