@@ -7,3 +7,4 @@
 (The Unlicensed License)
 - Optimized site better for search engines
 - Added Favicon 
+- Verified site on Google
