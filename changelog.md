@@ -1,5 +1,3 @@
-# changelog
-<br>
 <strong>August 11th, 2021</strong>
 
 - Website created
