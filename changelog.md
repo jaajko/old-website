@@ -13,7 +13,12 @@
 - Added credit to davesite.com & Mozilla on some lines of code
 - Created assets directory
 - Added credit to link-assistant.com on a line of code
-<br>
+
 <strong>August 12th</strong>
+
+- Added link
+
+
+<strong>August 13th</strong>
 
 - 
