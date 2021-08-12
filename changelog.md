@@ -16,4 +16,4 @@
 <br>
 <strong>August 12th</strong>
 
-- Added photo
+- 
