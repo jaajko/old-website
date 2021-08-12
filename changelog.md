@@ -17,7 +17,7 @@
 <strong>August 12th</strong>
 
 - Added link
-
+- Removed some unused assets
 
 <strong>August 13th</strong>
 
