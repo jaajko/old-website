@@ -22,3 +22,4 @@
 <strong>August 15th</strong>
 
 - Changed the color of some text to red
+- Added another page
