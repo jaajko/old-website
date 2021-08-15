@@ -23,3 +23,4 @@
 
 - Changed the color of some text to red
 - Added another page
+- Created pages directory
