@@ -22,7 +22,7 @@
 <strong>August 15th</strong>
 
 - Changed the color of some text to red
-- Added another page
+- Created a page for testing
 - Created pages directory
 
 <strong>August 20th</strong>
