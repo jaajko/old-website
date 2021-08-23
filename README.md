@@ -1,1 +1,1 @@
-https://jaajko.github.io/website/
+https://jaajko.github.io
