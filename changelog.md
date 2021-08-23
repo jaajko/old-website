@@ -29,3 +29,8 @@
 
 - Tested embedding youtube videos
 - Added new page
+
+<strong>August 23rd</strong>
+
+- Changed repository name
+- Website address now jaajko.github.io
