@@ -34,3 +34,7 @@
 
 - Changed repository name
 - Website address now jaajko.github.io
+
+<strong>August 24th</strong>
+
+- Added Google Analytics
