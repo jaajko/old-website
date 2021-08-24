@@ -39,3 +39,4 @@
 - Added CC-BY-SA-4.0 License
 - Disallowed search engines to index irrelevant pages
 - Removed unused file in assets directory
+- Added sitemap
