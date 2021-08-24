@@ -37,3 +37,4 @@
 
 - Added Google Analytics
 - Added CC-BY-SA-4.0 License
+- Disallowed crawlers to crawl irrelevant pages
