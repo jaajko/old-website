@@ -5,8 +5,6 @@
 - Repository created
 - Website created
 - Fixed website being too small on mobile devices (Thanks to davesite.com!)
-- Added LICENSE to Repository<br>
-(The Unlicensed License)
 - Optimized site better for search engines (Thanks to link-assistant.com!)
 - Added Favicon 
 - Verified site on Google
@@ -38,3 +36,4 @@
 <strong>August 24th</strong>
 
 - Added Google Analytics
+- Added CC-BY-SA-4.0 License
