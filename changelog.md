@@ -40,3 +40,7 @@
 - Disallowed search engines to index irrelevant pages
 - Removed unused file in assets directory
 - Added sitemap
+
+<strong>August 26th</strong>
+
+- Updated link to the favicon
