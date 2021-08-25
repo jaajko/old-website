@@ -14,24 +14,24 @@
 
 <strong>August 12th</strong>
 
-- Added link
+- Added a link
 - Removed some unused assets
 
 <strong>August 15th</strong>
 
 - Changed the color of some text to red
 - Created a page for testing
-- Created pages directory
+- Created a directory for pages
 
 <strong>August 20th</strong>
 
 - Tested embedding youtube videos
-- Added new page
+- Added a new page
 
 <strong>August 23rd</strong>
 
-- Changed repository name
-- Website address now jaajko.github.io
+- Changed the repository name
+- Website address is now https://jaajko.github.io
 
 <strong>August 24th</strong>
 
