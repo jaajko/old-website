@@ -31,7 +31,7 @@
 <strong>August 23rd</strong>
 
 - Changed the repository name
-- Website address is now https://jaajko.github.io
+- Website address changed to https://jaajko.github.io
 
 <strong>August 24th</strong>
 
