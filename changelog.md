@@ -44,3 +44,4 @@
 <strong>August 26th</strong>
 
 - Updated link to the favicon
+- Changed the email link to my new email
