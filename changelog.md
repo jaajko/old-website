@@ -36,7 +36,6 @@
 <strong>August 24th</strong>
 
 - Added Google Analytics
-- Added CC-BY-SA-4.0 License
 - Disallowed search engines to index irrelevant pages
 - Removed unused file in assets directory
 - Added sitemap
@@ -45,3 +44,7 @@
 
 - Updated link to the favicon
 - Changed the email link to my new email
+
+<strong>September 5th</strong>
+
+- Removed Google Analytics
