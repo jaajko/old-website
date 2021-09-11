@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jaajko.github.io
+Token: b9d21860cb4e4b2619176309429fc6a5865a00adb0151cf4c187f1f0e0f3f223
