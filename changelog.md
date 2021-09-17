@@ -48,3 +48,7 @@
 <strong>September 5th</strong>
 
 - Removed Google Analytics
+
+<strong>September 18th</strong>
+
+- Added a link
