@@ -52,4 +52,4 @@
 
 - Added a link
 - Created a new page
-- Added to-do link
+- Added a link
