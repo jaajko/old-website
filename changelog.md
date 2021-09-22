@@ -53,3 +53,7 @@
 - Added a link
 - Created a new page
 - Added a link
+
+<strong>September 22nd</strong>
+
+- Removed a page
