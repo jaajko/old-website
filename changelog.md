@@ -57,3 +57,8 @@
 <strong>September 22nd</strong>
 
 - Removed a page
+
+<strong>September 26th</strong>
+
+- Added custom domain (jaajko.site)
+- Added another sitemap
