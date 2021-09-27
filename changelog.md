@@ -66,3 +66,7 @@
 <strong>September 27th</strong>
 
 - Created a custom 404 page
+
+<strong>September 28th</strong>
+
+- Added a dark theme widget across all pages (Thanks, Sandoche!)
