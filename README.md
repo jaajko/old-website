@@ -1,1 +1,1 @@
-<a href="https://jaajko.site">jaajko.site</a>
+<a href="http://jaajko.site">jaajko.site</a>
