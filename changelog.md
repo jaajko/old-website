@@ -62,3 +62,7 @@
 
 - Added custom domain (jaajko.site)
 - Added another sitemap
+
+<strong>September 27th</strong>
+
+- Created a custom 404 page
