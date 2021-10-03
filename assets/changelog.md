@@ -59,7 +59,7 @@
 
 <strong>September 26th</strong>
 
-- Added custom domain (jaajko.site)
+- Added custom domain
 - Added another sitemap
 
 <strong>September 27th</strong>
@@ -69,3 +69,8 @@
 <strong>September 28th</strong>
 
 - Added a dark theme widget across all pages (Thanks, Sandoche!)
+
+<strong>October 4th</strong>
+
+- Removed custom domain
+- Removed the other sitemap
