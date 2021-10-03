@@ -25,11 +25,11 @@
 
 <strong>August 20th</strong>
 
-- Added a new page
+- Created a page
 
 <strong>August 23rd</strong>
 
-- Changed the repository name
+- Changed repository name
 - Website address now https://jaajko.github.io
 
 <strong>August 24th</strong>
@@ -42,7 +42,6 @@
 <strong>August 26th</strong>
 
 - Updated link to favicon
-- Changed email
 
 <strong>September 5th</strong>
 
@@ -51,7 +50,7 @@
 <strong>September 18th</strong>
 
 - Added a link
-- Created a new page
+- Created a page
 - Added a link
 
 <strong>September 22nd</strong>
