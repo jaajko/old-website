@@ -74,5 +74,7 @@
 
 - Removed custom domain
 - Removed the other sitemap
-- Added a page
+- Created a page
+- Changed repository name, address changed to<br>
+https://jaajko.github.io/website
 - 
