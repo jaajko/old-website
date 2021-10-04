@@ -74,3 +74,5 @@
 
 - Removed custom domain
 - Removed the other sitemap
+- Added a page
+- 
