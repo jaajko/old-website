@@ -77,4 +77,5 @@
 - Created a page
 - Changed repository name, address changed to<br>
 https://jaajko.github.io/website
-- 
+- Created a README
+- Archived repository
